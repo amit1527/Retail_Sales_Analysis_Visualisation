@@ -26,7 +26,8 @@ This project is a full exploratory data analysis (EDA) of Retail sales during th
 
 ### 1. 👥 Customers by Age and Gender
 
-![Customer Age & Gender](images/customer_age_gender.png)
+![Customer Age & Gender](Images/Customer_by_age.png)
+![Customer Age & Gender](Images/Customer_by_gender.png)
 
 - Majority of customers are aged between **60+ years**.
 - **Female shoppers** form a larger portion of Zara's customer base.
@@ -35,7 +36,7 @@ This project is a full exploratory data analysis (EDA) of Retail sales during th
 
 ### 2. 🏷️ Most Sold Product Categories
 
-![Most Sold Categories](images/most_sold_category.png)
+![Most Sold Categories](Images/most_sold_category.png)
 
 - **Clothing** dominates in number of items sold.
 - **Electronics** shows consistent performance.
@@ -53,7 +54,7 @@ This project is a full exploratory data analysis (EDA) of Retail sales during th
 
 ### 4. 📆 Sales Trend Throughout 2023
 
-![Sales Trend 2023](images/sales_trend_2023.png)
+![Sales Trend 2023](Images/Sales_Trend_Weekly.png)
 
 - Peak sales is in late **may** and early **June**.
 - Due to Summer Demand of **AC's, Fan's and cooler's increased**.
@@ -63,7 +64,7 @@ This project is a full exploratory data analysis (EDA) of Retail sales during th
 
 ### 5. 📅 Most Crowded Weekdays
 
-![Crowded Weekdays](images/crowded_weekdays.png)
+![Crowded Weekdays](Images/Comparison_sales_vs_amount.png)
 
 - **Saturday and Tuesday** are the most crowded days in stores.
 - Mid-week traffic is relatively low, with Thursday being the least active.
