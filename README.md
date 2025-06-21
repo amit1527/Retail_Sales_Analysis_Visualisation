@@ -45,7 +45,7 @@ This project is a full exploratory data analysis (EDA) of Retail sales during th
 
 ### 3. 💰 Category vs Total Sales Amount
 
-![Category vs Sales Amount]([images/category_vs_sales_amount.png](https://github.com/amit1527/Retail_Sales_Analysis_Visualisation/blob/main/Images/Comparison_catg_vs_amount.png?raw=true))
+![Category vs Sales Amount](Images/Comparison_catg_vs_amount.png)
 
 - Despite **Clothing** being the hhighest sold category but **Electronics** Able to genrate highest Sales Amount.
 
